@@ -1,4 +1,4 @@
-<img align="center," src="/profile/logo_wordmark_small.svg" alt="LOGO" width="35%">
+<img align="center," src="/profile/logo_wordmark_small.svg" alt="LOGO" width="50%">
 
 ## Hi there, welcome to [Project-Name-Here](https://project-name-here.de/)
 
