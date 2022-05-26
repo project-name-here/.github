@@ -1,4 +1,4 @@
-<img align="center," src="./logo_wordmark_small.svg?raw=true&sanitize=true" alt="LOGO" width="25%">
+<img align="center," src="https://raw.githubusercontent.com/project-name-here/.github/main/profile/logo_wordmark_small.svg" alt="LOGO" width="25%">
 
 ## Hi there, welcome to [Project-Name-Here](https://project-name-here.de/)
 
