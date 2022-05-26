@@ -1,4 +1,5 @@
 <img align="center," src="./logo_wordmark_small.svg?raw=true&sanitize=true" alt="LOGO" width="25%">
+
 ## Hi there, welcome to [Project-Name-Here](https://project-name-here.de/)
 
 We are `The only Hackerspace with a variable name`!
